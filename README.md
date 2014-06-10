@@ -1,5 +1,4 @@
-#superlists
-#==========
+#Superlists
 
 
-This is a sample app that I am using to learn Python with Django. 
+This is a sample app that I am using to learn Python with Django.
